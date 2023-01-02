@@ -5,3 +5,9 @@ To run object detection models that powerful processors can run easily on a smal
 To alert the rider in real time, I extended Neosensory Bluetooth SDK to develop a bluetooth API between the tactile motors and Raspberry Pi running object detection. Then, I categorized the field of view into grids to send haptic signals on the wrist depending on the spatial location of the detected object. 
 
 Finally, this tool was deployed on Bicycles in the form of a small form factor attachment. In the future, I’m looking forward to commercializing HapticCV with Neosensory corporation.
+
+Implemented a GPS tracking and human encroachment algorithm for Elephants using modalities such as Acoustics, Visual and Accelerometer to prevent poaching in real time which is currently running on one of the ten OpenCollars which runs on a Nordic processing core equipped with LoraWAN and GPS connectivity currently deployed at Liwonde National Parks.
+
+I got my hands-on with these development boards and Microchips through my venture named SchemoBotics. Since these small, diverse range of development boards cost a lot, I tried to fund my projects through an Ecommerce platform for Robotics and Sensors. 
+
+Creating these projects introduced me to fields such as Spatial AI and Embedded Machine Learning which seemed too foreign to me earlier and got me hands-on with these development boards. 
